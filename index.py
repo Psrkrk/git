@@ -1,1 +1,1 @@
-print("now we will start to day")
+print("and also wroks deepak dont waste time")
