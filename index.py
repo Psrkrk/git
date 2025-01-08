@@ -1,1 +1,1 @@
-print("hi git we will achive mastery in git")
+print("now we will start to day")
