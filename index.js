@@ -1,1 +1,1 @@
-console.log("hi github we will achive mastery in github");
+console.log("ok so start it");
