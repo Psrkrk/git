@@ -1,1 +1,1 @@
-print("hi github and git we will achive mastery in git")
+print("hi git we will achive mastery in git")
