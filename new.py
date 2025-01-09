@@ -1,0 +1,1 @@
+print("tum bhi aa agye ha kyu nahi")
