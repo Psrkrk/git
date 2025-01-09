@@ -1,1 +1,1 @@
-print("and also wroks deepak dont waste time")
+print("ha ofcoures")

@@ -1,1 +1,1 @@
-console.log("ok pankaj chalo kaam chalu karo");
+console.log("chlo ak sath kaam kare");
